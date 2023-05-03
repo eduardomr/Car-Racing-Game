@@ -12,4 +12,4 @@ The game was developed with Unreal Engine 5, one of the most powerful and popula
 
 To play the game, you need to download and install Unreal Engine 5. You can download the engine at https://www.unrealengine.com/en-US/download. Make sure to select the latest version.
 
-After installing Unreal Engine 5, download the project source code at https://github.com/your-username/project-name. Open the project in Unreal Engine 5 and compile the code.
+After installing Unreal Engine 5, download the project source code at https://github.com/eduardomr/Car-Racing-Game. Open the project in Unreal Engine 5 and compile the code.
